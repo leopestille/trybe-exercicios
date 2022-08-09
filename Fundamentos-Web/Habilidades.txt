@@ -1,0 +1,6 @@
+- GIT
+- GITHUB
+- UNIX
+- BASH
+- HTML
+- CSS
