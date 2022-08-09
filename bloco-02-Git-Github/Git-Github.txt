@@ -1,0 +1,3 @@
+Neste bloco aprendemos o que é Git e GitHUB, para que servem, Entendemos os comandos.
+
+no último dia do bloco aprendemos como a  internet funciona.
