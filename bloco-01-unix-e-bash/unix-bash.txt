@@ -1,0 +1,1 @@
+nesse bloco aprendemos a criar arquivos e diretórios, buscar pelo conteúdo do arquivo, listar todos os arquivos do diretorio, mover e apagar arquivos e diretórios.
