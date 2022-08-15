@@ -8,7 +8,8 @@
 
 .paragrafos {
     background-color: rgb(240, 240, 240);
-    width: 80%;
+    width: 50%;
     height: 300px;
-    overflow: auto;
+    overflow-y: auto;
+    overflow-x: auto;
 }
