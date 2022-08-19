@@ -10,4 +10,8 @@ for (let i = 0; i < numbers.length; i++) {
 }
 let result = sum / numbers.length;
 
-console.log(result);
+if(result > 20) {
+  console.log("The result is higher than 20");
+}else{
+  console.log("The result is lower or equal than 20");
+}
