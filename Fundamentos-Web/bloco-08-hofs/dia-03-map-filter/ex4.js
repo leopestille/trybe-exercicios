@@ -63,4 +63,7 @@ const books = [
 
 function oldBooksOrdered() {
     const currentYear = new Date().getFullYear();
+    return books.filter((book) => (book.releaseYear < currentYear - 60))
 }
+
+console.log(oldBooksOrdered());
