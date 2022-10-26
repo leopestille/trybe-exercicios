@@ -61,6 +61,12 @@ const books = [
     },
 ];
 
+/**
+ * It takes an array of objects, and returns an array of strings
+ * @returns An array of strings with the book name, genre, and author name.
+ */
 function formatedBookNames() {
-
+    return books.map( (book) => `${book.name} - ${book.genre} - ${book.author.name}`);
 }
+
+console.log(formatedBookNames());
