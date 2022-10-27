@@ -62,7 +62,11 @@ const books = [
 ];
 
 function authorWith3DotsOnName() {
-    return books.find((book) => (book.author.name[1] === '.' && book.author.name[4] === '.' && book.author.name[7 === '.']))
+    return books.find((book) => (
+        book.author.name[1] === '.'
+        && book.author.name[4] === '.'
+        && book.author.name[7] === '.'
+    )).name;
 }
 
 console.log(authorWith3DotsOnName());
