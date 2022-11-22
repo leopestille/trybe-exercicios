@@ -10,6 +10,7 @@ class Sobre extends React.Component {
                 <p>
                     { " Estudante de Desenvolvimento Web " }
                 </p>
+                <h2>Minhas Habilidades</h2>
             </div>
         );
     }

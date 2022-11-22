@@ -1,9 +1,12 @@
 
 import React from 'react';
+import Sobre from './About';
 
 class App extends React.Component {
   render() {
-    return ();
+    return (
+      <Sobre />
+    );
   }
 }
 
